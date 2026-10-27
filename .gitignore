@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+network.html
+clean_network.html
+.env
